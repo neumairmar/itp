@@ -6,3 +6,9 @@ jdk:
   
 before_install:
   - cd java
+  
+sudo: false
+addons:
+  apt:
+    packages:
+      - oracle-java8-installer
