@@ -1,5 +1,3 @@
-package at.htlw.neumair;
-
 /**
  * Created by neuma on 03.03.2017.
  */

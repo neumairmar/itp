@@ -1,5 +1,3 @@
-package at.htlw.neumair;
-
 import junit.awtui.TestRunner;
 import junit.framework.TestCase;
 
